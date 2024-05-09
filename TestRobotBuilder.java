@@ -1,10 +1,10 @@
 public class TestRobotBuilder {
 
     public static void printRobot(Robot robot){
-        System.out.println(STR."Head: \{robot.getRobotHead()}");
-        System.out.println(STR."Torso: \{robot.getRobotTorso()}");
-        System.out.println(STR."Arms: \{robot.getRobotArms()}");
-        System.out.println(STR."Legs: \{robot.getRobotLegs()}");
+        System.out.println("Head: " + robot.getRobotHead());
+        System.out.println("Torso: " + robot.getRobotTorso());
+        System.out.println("Arms: " + robot.getRobotArms());
+        System.out.println("Legs: " + robot.getRobotLegs());
         System.out.println();
     }
 
