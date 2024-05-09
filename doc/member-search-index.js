@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"TestRobotBuilder","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"<Unnamed>","c":"TestRobotBuilder","l":"printRobot(Robot)"},{"p":"<Unnamed>","c":"TestRobotBuilder","l":"TestRobotBuilder()","u":"%3Cinit%3E()"}];updateSearchResults();
