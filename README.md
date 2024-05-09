@@ -16,5 +16,5 @@ To run the example, follow these steps:
 1. Download all files or clone this repository to your local machine.
 2. Navigate to the repository's directory.
 3. Run the following command in your terminal:
-   <javac FuturisticRobotBuilder.java OldRobotBuilder.java TrashCollectingRobotBuilder.java Robot.java RobotBuilder.java RobotPlan.java RobotBuilder.java RobotEngineer.java>
+   <>javac FuturisticRobotBuilder.java OldRobotBuilder.java TrashCollectingRobotBuilder.java Robot.java RobotBuilder.java RobotPlan.java RobotBuilder.java RobotEngineer.java<>
 5. Compile the Java files using a Java compiler:
